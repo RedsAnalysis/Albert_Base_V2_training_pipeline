@@ -1,0 +1,86 @@
+[
+    {
+        "input_text": "I would like to order a Cheeseburger.",
+        "response_text": "Would you like anything else with your Cheeseburger?"
+    },
+    {
+        "input_text": "I would like to order a Kane's box 3 finger.",
+        "response_text": "Would you like anything else with your Kane's box 3 finger?"
+    },
+    {
+        "input_text": "A Coke, please.",
+        "response_text": "Sure, a Kane's box 3 finger and a Coke. Your total is [TOTAL_AMOUNT]. Is that correct?"
+    },
+    {
+        "input_text": "I would like to order a Cheeseburger.",
+        "response_text": "Would you like anything else with your Cheeseburger?"
+    },
+    {
+        "input_text": "Yes, add no pickles.",
+        "response_text": "Got it. Anything else?"
+    },
+    {
+        "input_text": "I would like to order a Big Mac.",
+        "response_text": "Would you like anything else with your Big Mac?"
+    },
+    {
+        "input_text": "Yes, add no pickles.",
+        "response_text": "Got it. Anything else?"
+    },
+    {
+        "input_text": "I would like to order a Pepperoni Pizza.",
+        "response_text": "Would you like anything else with your Pepperoni Pizza?"
+    },
+    {
+        "input_text": "A Coke, please.",
+        "response_text": "Sure, a Pepperoni Pizza and a Coke. Your total is [TOTAL_AMOUNT]. Is that correct?"
+    },
+    {
+        "input_text": "I would like to order a Pepperoni Pizza.",
+        "response_text": "Would you like anything else with your Pepperoni Pizza?"
+    },
+    {
+        "input_text": "Yes, add beef.",
+        "response_text": "Got it. Anything else?"
+    },
+    {
+        "input_text": "A Coke, please.",
+        "response_text": "Sure, a Pepperoni Pizza with beef and a Coke. Your total is [TOTAL_AMOUNT]. Is that correct?"
+    },
+    {
+        "input_text": "I would like to order a McDouble.",
+        "response_text": "Would you like anything else with your McDouble?"
+    },
+    {
+        "input_text": "Yes, add no onions.",
+        "response_text": "Got it. Anything else?"
+    },
+    {
+        "input_text": "A lemonade, please.",
+        "response_text": "Sure, a McDouble with no onions and a lemonade. Your total is [TOTAL_AMOUNT]. Is that correct?"
+    },
+    {
+        "input_text": "I would like to order a Kane's box 3 finger.",
+        "response_text": "Would you like anything else with your Kane's box 3 finger?"
+    },
+    {
+        "input_text": "Yes, add extra chicken tender.",
+        "response_text": "Got it. Anything else?"
+    },
+    {
+        "input_text": "I would like to order a Quarter Pounder with Cheese.",
+        "response_text": "Would you like anything else with your Quarter Pounder with Cheese?"
+    },
+    {
+        "input_text": "I would like to order a Quarter Pounder with Cheese Deluxe.",
+        "response_text": "Would you like anything else with your Quarter Pounder with Cheese Deluxe?"
+    },
+    {
+        "input_text": "Yes, add no pickles.",
+        "response_text": "Got it. Anything else?"
+    },
+    {
+        "input_text": "A Coke, please.",
+        "response_text": "Sure, a Quarter Pounder with Cheese Deluxe with no pickles and a Coke. Your total is [TOTAL_AMOUNT]. Is that correct?"
+    }
+]
